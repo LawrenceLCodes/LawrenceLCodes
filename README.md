@@ -24,7 +24,7 @@ I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 - :telescope: Seeking my next opportunity to build and test web applications within the context of a Frontend Web Developer or a Quality Assurance role.
 
-- :seedling: Focusing on improving my skills with JavaScript.
+- :seedling: Focusing on improving my skills with JavaScript and building out a simple instagram project using Sinatra, a capable framework that functions with the Ruby programming language to create web applications.
 
 - :zap: In my free time, I play video games (love Mass Effect and Warframe), read about technology (emerging web browsers such as Brave, operating systems, software in general). In addition, I enjoy watches :watch: and horology :mantelpiece_clock:
 
